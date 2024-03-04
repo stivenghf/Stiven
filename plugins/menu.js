@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'stiven BOT 🏀🪽',
 body: "أول بوت واتساب في العالم العربي 🗿🪽",
-thumbnailUrl: 'https://telegra.ph/Stiven-02-08',
+thumbnailUrl: 'https://telegra.ph/file/42fb30ff4d8aff8822e32.jpg',
 sourceUrl: 'https://instagram.com/stiven._.xxl',
 mediaType: 1,
 renderLargerThumbnail: true
